@@ -1,5 +1,5 @@
 export const metadata = {
-  title: "Hockey | Rise",
+  title: "Dek Hockey Polyvalente de l'érablière | Rise",
   description: "Trouvez ici toutes les régions de hockey.",
 };
 
