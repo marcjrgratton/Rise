@@ -10,7 +10,7 @@ import { FiArrowRight } from "react-icons/fi";
 export default function page() {
   const reg = [
     {
-      region: "Gatineau",
+      region: "Polyvalente de l'Érablière",
     },
     {
       region: "Cantley",
