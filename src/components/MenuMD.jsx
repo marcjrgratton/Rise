@@ -52,7 +52,7 @@ export default function MenuMD() {
               className="font-semibold flex gap-2 items-center text-[#000c3b] "
             >
               <GiHockey />
-              Hockey
+              Polyvalente de l'Érablière
             </Link>
           </DropdownMenuItem>
           <DropdownMenuItem>

@@ -44,7 +44,7 @@ export default function Sidebar() {
             }`}
           >
             <GiHockey />
-            Hockey
+            Polyvalente de l'Érablière
           </Link>
           <Link
             href={"/soccer"}
